@@ -16,4 +16,4 @@ async function deleteCategory(id,model){
    return;
 }
 
-module.exports = {addCategory, updateCategory}
+module.exports = {addCategory, updateCategory, deleteCategory}
